@@ -22,3 +22,21 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Node
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# uploads (important)
+backend/uploads/
+
+# env
+.env
+
+# OS files
+.DS_Store
